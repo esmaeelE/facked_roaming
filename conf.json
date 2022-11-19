@@ -1,0 +1,186 @@
+{
+    "EVENT_DIRECTION": [
+        {
+            "offset": 0
+        },
+        {
+            "length": 3
+        }
+    ],
+    "Incoming_Node": [
+        {
+            "offset": 3
+        },
+        {
+            "length": 20
+        }
+    ],
+    "Outgoing_Node": [
+        {
+            "offset": 23
+        },
+        {
+            "length": 20
+        }
+    ],
+    "Incoming_PATH": [
+        {
+            "offset": 43
+        },
+        {
+            "length": 20
+        }
+    ],
+    "Outgoing_PATH": [
+        {
+            "offset": 63
+        },
+        {
+            "length": 20
+        }
+    ],
+    "Incoming_Product": [
+        {
+            "offset": 83
+        },
+        {
+            "length": 8
+        }
+    ],
+    "Outgoing_Product": [
+        {
+            "offset": 91
+        },
+        {
+            "length": 8
+        }
+    ],
+    "EL_CALLING_NUMBER": [
+        {
+            "offset": 99
+        },
+        {
+            "length": 31
+        }
+    ],
+    "EL_CALLED_NO": [
+        {
+            "offset": 130
+        },
+        {
+            "length": 31
+        }
+    ],
+    "mds_start_date": [
+        {
+            "offset": 161
+        },
+        {
+            "length": 8
+        }
+    ],
+    "mds_start_time": [
+        {
+            "offset": 169
+        },
+        {
+            "length": 8
+        }
+    ],
+    "R_DURATION": [
+        {
+            "offset": 177
+        },
+        {
+            "length": 10
+        }
+    ],
+    "DATA_VOLUME": [
+        {
+            "offset": 187
+        },
+        {
+            "length": 25
+        }
+    ],
+    "DATA_UNIT": [
+        {
+            "offset": 212
+        },
+        {
+            "length": 8
+        }
+    ],
+    "RECORD_TYPE": [
+        {
+            "offset": 220
+        },
+        {
+            "length": 2
+        }
+    ],
+    "RECORD_SEQUENCE_NUMBER": [
+        {
+            "offset": 222
+        },
+        {
+            "length": 15
+        }
+    ],
+    "USER_SUMMARISATION": [
+        {
+            "offset": 237
+        },
+        {
+            "length": 20
+        }
+    ],
+    "USER_DATA": [
+        {
+            "offset": 257
+        },
+        {
+            "length": 40
+        }
+    ],
+    "EL_PROVIDER_ID": [
+        {
+            "offset": 297
+        },
+        {
+            "length": 20
+        }
+    ],
+    "EL_GD_SWITCH_ID": [
+        {
+            "offset": 317
+        },
+        {
+            "length": 20
+        }
+    ],
+    "REVENUE_SHARE_AMOUNT_1": [
+        {
+            "offset": 337
+        },
+        {
+            "length": 20
+        }
+    ],
+    "INCOMING_OPERATOR": [
+        {
+            "offset": 357
+        },
+        {
+            "length": 6
+        }
+    ],
+    "OUTGOING_OPERATOR": [
+        {
+            "offset": 363
+        },
+        {
+            "length": 6
+        }
+    ]
+}
